@@ -1,0 +1,1 @@
+web: gunicorn Climatic_flask:app
