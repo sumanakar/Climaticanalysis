@@ -45,8 +45,11 @@ def welcome():
         f"/api/v1.0/precipitation<br/>"
         f"/api/v1.0/stations<br/>"
         f"/api/v1.0/tobs<br/>"
+        f"In the below api route enter startdate in the format-YYYY-MM-DD<br/>"
         f"/api/v1.0/<start><br/>"
+        f"In the below api route enter start and end date in the format-YYYY-MM-DD<br/>"
         f"/api/v1.0/<start>/<end><br/>"
+       
 
     )
 
